@@ -1,0 +1,11 @@
+name: cRanks
+description: A custom rank plugin.
+authors: [Sub]
+main: me.sub.cRanks.Main.Main
+api-version: 1.13
+depend: [PlaceholderAPI]
+version: 1.2
+commands:
+   rank:
+      description: Default ranking command.
+      permission: cranks.use

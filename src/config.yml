@@ -1,0 +1,12 @@
+settings:
+   changechat:
+      enabled: true
+   setup: false
+   ConfigurationType: "FLAT_FILE"
+   sql:
+      host: "localhost"
+      port: "3306"
+      database: "subrank"
+      username: "root"
+      password: ""
+   
